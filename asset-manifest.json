@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "//frodibjorn.github.io/react-movies/static/css/main.b1e91c85.css",
-    "main.js": "//frodibjorn.github.io/react-movies/static/js/main.630aa403.js",
+    "main.js": "//frodibjorn.github.io/react-movies/static/js/main.04018d9b.js",
     "index.html": "//frodibjorn.github.io/react-movies/index.html",
     "main.b1e91c85.css.map": "//frodibjorn.github.io/react-movies/static/css/main.b1e91c85.css.map",
-    "main.630aa403.js.map": "//frodibjorn.github.io/react-movies/static/js/main.630aa403.js.map"
+    "main.04018d9b.js.map": "//frodibjorn.github.io/react-movies/static/js/main.04018d9b.js.map"
   },
   "entrypoints": [
     "static/css/main.b1e91c85.css",
-    "static/js/main.630aa403.js"
+    "static/js/main.04018d9b.js"
   ]
 }

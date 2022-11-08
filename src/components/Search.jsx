@@ -1,7 +1,7 @@
-import React, { Component, useState } from "react";
+import React, { useState } from "react";
 
 const Search = (props) => {
-  const {searchMovies = Function.prototype} = props
+  const {searchMovies = Function.prototype} = props;
 
   const [search, setSearch] = useState('')
   const [type, setType] = useState('all')
@@ -9,7 +9,7 @@ const Search = (props) => {
 
   const handleKey = (event) => {
     if (event.key === "Enter") {
-      this.props.searchMovies(this.state.search,this.state.type);
+      searchMovies(search,type);
     }
   };
   const handleFilter = (event) => {
